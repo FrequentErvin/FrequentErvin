@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ervin
 #### I am a high schooler from Sarajevo
-![I am a high schooler from Sarajevo](https://postimg.cc/delete/qWJsdPt0/854d9f62)
+
 
 I do math olympiads, web development, and machine learning, mainly computer vision.
 
