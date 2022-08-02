@@ -2,9 +2,9 @@
 #### I am a high schooler from Sarajevo
 
 
-I do math olympiads, web development, and machine learning, mainly computer vision.
+I do math olympiads, web development, and machine learning.
 
-Skills: Python / C++ / REACT / JS / HTML / CSS
+Skills: Python / C++ / React / JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning some functional language probably 
