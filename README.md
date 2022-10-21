@@ -4,11 +4,11 @@
 
 I do math olympiads, web development, and machine learning.
 
-Skills: Python / C++ / React / JS / HTML / CSS
+Skills: Python / C++ / React & Web
 
-- 🔭 I’m currently working on my portfolio website 
-- 🌱 I’m currently learning some functional language probably 
-- 👯 I’m looking to collaborate on machine learning projects 
+- 🔭 I’m currently senior year in high school
+- 🌱 I’m currently preparing my admissions tests
+- 👯 I’m looking to learn as much as possible
 - 😄 Pronouns: he/him 
 
 
