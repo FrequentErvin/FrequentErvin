@@ -2,12 +2,12 @@
 #### I am a high schooler from Sarajevo
 
 
-I do math olympiads, web development, and machine learning.
+I do math olympiads, data science, and web development.
 
-Skills: Python / C++ / React & Web
+Skills: Python, Data science / C++ / React & Web
 
 - 🔭 I’m currently senior year in high school
-- 🌱 I’m currently preparing my admissions tests
+- 🌱 I’m preparing my admissions tests
 - 👯 I’m looking to learn as much as possible
 - 😄 Pronouns: he/him 
 
