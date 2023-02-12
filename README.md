@@ -4,8 +4,6 @@
 
 I do math olympiads, data science, and web development.
 
-Skills: Python, Data science / C++ / React & Web
-
 - 🔭 I’m currently senior year in high school
 - 🌱 I’m preparing my admissions tests
 - 👯 I’m looking to learn as much as possible
