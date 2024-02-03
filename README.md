@@ -1,11 +1,8 @@
-### Hi there 👋, My name is Ervin
-#### I am a high schooler from Sarajevo
+### Hi 👋, my name is Ervin
+#### I am a student from Sarajevo
 
+I do MLOPs but also did web development here.
 
-I do math olympiads, data science, and web development.
-
-- 🔭 I’m currently senior year in high school
-- 🌱 I’m preparing my admissions tests
 - 👯 I’m looking to learn as much as possible
 - 😄 Pronouns: he/him 
 
